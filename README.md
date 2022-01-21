@@ -10,13 +10,13 @@ I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world
 [![Linkedin](https://img.shields.io/badge/-PrashantMore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-more-55950518b)
 [![Gmail](https://img.shields.io/badge/-prashantmore277-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-prashantmore277-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/prashantmore277)
-[![HackerEarth](https://img.shields.io/badge/-prashantmore277-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerearth.com/@prashantmore277)
+[![LeetCode](https://img.shields.io/badge/-Prashcode-islamicgreen?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Prashcode)
 
 
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=prashantmore277&style=flat)
 [![Github](https://img.shields.io/badge/-prashantmore277-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/prashantmore277)
-
+https://leetcode.com/Prashcode/
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
@@ -54,10 +54,8 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://getbootstrap.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code> 
 <code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
+
 <br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
 <code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
 <br>
 <code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
