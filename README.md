@@ -20,10 +20,12 @@ https://leetcode.com/Prashcode/
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-### 💼  Things that I'm currently working on: 
-* Web Dev 
-* Android Dev
-* Improving my DS and Algo
+## I'm a Programmer, Student, Reader, and Trekker
+
+- 🌱 I’m currently learning <b>M.E.R.N.<b/>
+- 👯 I’m looking to collaborate with other other developers, open source community and projects.
+- 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
+- ⚡ Fun fact: I love to watch web series and play football.
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
