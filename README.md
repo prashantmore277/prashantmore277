@@ -16,7 +16,6 @@ I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=prashantmore277&style=flat)
 [![Github](https://img.shields.io/badge/-prashantmore277-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/prashantmore277)
-https://leetcode.com/Prashcode/
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
