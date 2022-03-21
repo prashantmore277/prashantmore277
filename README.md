@@ -1,19 +1,19 @@
-<!--  Greeting  -->
+<!-- Greeting -->
 # Hey there! :wave::smiley:
 
-<!--Introduction -->
+<!-- Introduction -->
 I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-<!-- Your badges -->
+<!--  Your badges  -->
 [![Linkedin](https://img.shields.io/badge/-PrashantMore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-more-55950518b)
 [![Gmail](https://img.shields.io/badge/-prashantmore277-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-prashantmore277-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/prashantmore277)
 [![LeetCode](https://img.shields.io/badge/-Prashcode-islamicgreen?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Prashcode)
 
 
-<!-- Profile View Count and GitStats -->
+<!-- Profile View Count and Git-Stats -->
 ![](https://komarev.com/ghpvc/?username=prashantmore277&style=flat)
 [![Github](https://img.shields.io/badge/-prashantmore277-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/prashantmore277)
 <!-- gif Image -->
