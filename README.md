@@ -21,11 +21,11 @@ I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world
 
 ## I'm a Programmer, Student, Reader, and Trekker
 
-- 🌱 I’m currently learning <b>M.E.R.N.<b/>
+- 🌱 I’m currently learning <b>M.E.R.N<b/>
 - 👯 I’m looking to collaborate with other other developers, open source community and projects.
 - 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
 - 📰 Read:newspaper: Dev and Code articles daily.
-- ⚡ Fun fact: I love to watch web series and play football.
+- ⚡ Fun fact : I love to watch web series and play football.
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
