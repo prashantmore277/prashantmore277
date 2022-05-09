@@ -1,5 +1,5 @@
 <!-- Greeting -->
-# Hey there! :wave::smiley:
+# Hey there! :wave:
 
 <!-- Introduction -->
 I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
@@ -19,7 +19,7 @@ I'm Prashant! I'm a **Android Developer**:iphone:, looking to solve **real-world
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-## I'm a Programmer, Student, Reader, and Trekker
+## I'm a Programmer, Student, Reader, and Trekker.
 
 - 🌱 I’m currently learning <b>M.E.R.N<b/>
 - 👯 I’m looking to collaborate with other other developers, open source community and projects.
