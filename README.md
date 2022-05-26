@@ -65,7 +65,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
-Thanks!!
+<p><\p>
 </p>
 
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
