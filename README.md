@@ -1,10 +1,17 @@
 <!-- Greeting -->
-# Hey there! :wave:
 
-<!-- Introduction -->
-I'm Prashant ( https://www.prashantmore.tech/ )! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+# Hi, I'm Prashant! 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Prashant%20More-blue)](https://www.prashantmore.tech/) *(Domain Subscription Expired!!)*
+
+### About Me 🚀
+I'm a **Full-Stack Java Developer** 💻 passionate about building robust, scalable, and secure web applications. I specialize in:  
+- **Backend**: Java, Spring Boot, REST APIs, Microservices  
+- **Frontend**: Angular, TypeScript, JavaScript  
+- **Cloud & Databases**: AWS, MySQL, Oracle DB  
+- **Methodologies**: Agile, CI/CD, DevOps  
+
+I love solving **real-world problems** 🌍 and creating innovative software solutions. I'm also an **open-source enthusiast** 🌟 and enjoy contributing to projects that make a difference.  
 
 <!--  Your badges  -->
 [![Linkedin](https://img.shields.io/badge/-PrashantMore-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-more-55950518b)
@@ -19,53 +26,48 @@ I'm Prashant ( https://www.prashantmore.tech/ )! I'm a **Android Developer**:iph
 <!-- gif Image -->
 <img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/life_balance.gif" alt="side Image" align="right" width="460" height="auto" />
 
-## I'm a Programmer, Student, Reader, and Trekker.
+## I'm a Programmer, Developer, and Lifelong Learner.
 
-- 🌱 I’m currently learning <b>M.E.R.N<b/>
-- 👯 I’m looking to collaborate with other other developers, open source community and projects.
-- 🥅 2022 Goals: Learn more about web3.0, Data Structure and Algorithms.
-- 📰 Read:newspaper: Dev and Code articles daily.
-- ⚡ Fun fact : I love to watch web series and play football.
+- 🌱 I’m currently mastering **Advanced Java, Spring Boot, Microservices, and Cloud Technologies (AWS)**.
+- 👯 I’m looking to collaborate with other developers, contribute to **open-source projects**, and build innovative solutions.
+- 🥅 2023 Goals: Deepen my expertise in **System Design, Cloud Architecture, and Data Structures & Algorithms**.
+- 📰 Read :newspaper: tech blogs and articles daily to stay updated with the latest industry trends.
+- ⚡ Fun fact: I love trekking 🏞️, playing football ⚽, and binge-watching tech documentaries 🎥.
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.
+### 🌱 Challenges I’m Currently Pursuing:
+To continuously grow and push my boundaries, I’ve set the following challenges for myself:
+- Build and deploy **scalable, secure, and high-performance web applications** using modern tech stacks.
+- Contribute to **open-source projects** and give back to the developer community.
+- Earn certifications in **AWS Cloud** and **Java frameworks** to validate my expertise.
 
+### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://gitstats.me/prashantmore277">
-    <img width="460" height="auto" align="right" alt="Prashant's github stats" 
+    <img width="460" height="auto" align="right" alt="Prashant's GitHub Stats" 
          src="https://github-readme-stats.vercel.app/api?username=prashantmore277&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://www.pngwing.com/en/free-png-nluqn" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://getbootstrap.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></a></code> 
-<code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-//JetBrainLogo
-<br>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 
-<p><\p>
+<!-- icons -->
+<code><a href="https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
+<code><a href="https://spring.io/projects/spring-boot"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot"></a></code>
+<code><a href="https://angular.io/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"></a></code>
+<code><a href="https://www.typescriptlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"></a></code>
+<br>
+<code><a href="https://aws.amazon.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></a></code>
+<code><a href="https://www.mysql.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a></code>
+<code><a href="https://www.oracle.com/database/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle.png" alt="Oracle DB"></a></code>
+<code><a href="https://www.docker.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></a></code>
+<br>
+<code><a href="https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></a></code>
+<code><a href="https://www.jenkins.io/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png" alt="Jenkins"></a></code>
+<code><a href="https://postman.com/"><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></a></code>
+<code><a href="https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code"></a></code>
+<br>
+<code><a href="https://www.jetbrains.com/idea/"><img height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA"></a></code>
+<code><a href="https://www.linux.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></a></code>
+<code><a href="https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
+<code><a href="https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON"></a></code>
 </p>
 
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
+<h4 align="center">Thanks for Visiting! 😊</h4>
