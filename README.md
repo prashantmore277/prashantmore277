@@ -30,7 +30,7 @@ I love solving **real-world problems** 🌍 and creating innovative software sol
 
 - 🌱 I’m currently mastering **Advanced Java, Spring Boot, Microservices, and Cloud Technologies (AWS)**.
 - 👯 I’m looking to collaborate with other developers, contribute to **open-source projects**, and build innovative solutions.
-- 🥅 2023 Goals: Deepen my expertise in **System Design, Cloud Architecture, and Data Structures & Algorithms**.
+- 🥅 2025 Goals: Deepen my expertise in **System Design, Cloud Architecture, and Data Structures & Algorithms**.
 - 📰 Read :newspaper: tech blogs and articles daily to stay updated with the latest industry trends.
 - ⚡ Fun fact: I love trekking 🏞️, playing football ⚽, and binge-watching tech documentaries 🎥.
 
